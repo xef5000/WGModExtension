@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ca.xef5000</groupId>
-    <artifactId>WorldGuardExtension</artifactId>
+    <artifactId>WorldGuardModExtension</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>WorldGuardExtension</name>
+    <name>WorldGuardModExtension</name>
     <description>A WorldGuard extension plugin for Minecraft 1.12.2</description>
 
     <properties>
