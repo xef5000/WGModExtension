@@ -1,0 +1,17 @@
+main: ca.xef5000.plugin.WGModPlugin
+name: WGMod
+author: xef5000
+version: 1.0.0
+depend: [WorldGuard]
+api-version: 1.12
+
+commands:
+  wgmod:
+    description: WGMod plugin commands
+    usage: /wgmod [info|block|help]
+    permission: wgmod.admin
+
+permissions:
+  wgmod.admin:
+    description: Allows access to WGMod admin commands
+    default: op
